@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Tech Stack
+# Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-FFD43B?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-F26926?style=flat-square&logo=pytorch&logoColor=white)
