@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/python-#3776AB?style=for-the-badge&logo=python&logoColor=#3776AB"/></a>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
 
 <!--
 **hanueluni1106/hanueluni1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
