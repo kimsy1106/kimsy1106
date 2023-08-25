@@ -14,7 +14,8 @@
 
 ## 🌱 I’m currently learning ...
 
-  * XAI (eXplainable AI) 
+  * XAI (eXplainable AI)
+  * HCI (Human-Computer-Interaction; not only Computer, but also AI)
   * FL (Federated Learning)
   * ViT (Vision Transformer)
   * Multi-Modal 
