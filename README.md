@@ -18,7 +18,7 @@
   * HCI (Human-Computer-Interaction; not only Computer, but also AI)
   * FL (Federated Learning)
   * ViT (Vision Transformer)
-  * Multi-Modal 
+  * Multi-Modal
 
 ## 👯 Contributed project ...
 
