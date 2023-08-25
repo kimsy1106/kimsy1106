@@ -2,6 +2,10 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Federated Learning](https://img.shields.io/badge/Federated_Learning-FF69B4?style=flat-square)
+![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-FFD43B?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-F26926?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![WandB](https://img.shields.io/badge/WandB-yellow?style=flat-square&logo=weights-and-biases&logoColor=white)
 
 
 <!--
