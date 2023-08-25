@@ -24,7 +24,8 @@
   * LolPAGO : E-sports Realtime Coaching Service (@League of Legends)
   * D2ar Diary : It's a service that sympathizes with the diary using GPT
   * Tool's Riot : Lane Meta Analytics Using EDA (@League of Legends)
-  * FishScope : Weight Estimation Using Stereo Bbox Matching 
+  * FishScope : Weight Estimation Using Stereo Bbox Matching
+    
 <!--
 **hanueluni1106/hanueluni1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
