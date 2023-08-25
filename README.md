@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-# Tech Stack
+## 🔭 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-FFD43B?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-F26926?style=flat-square&logo=pytorch&logoColor=white)
@@ -12,8 +12,19 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
+## 🌱 I’m currently learning ...
 
+  * XAI (eXplainable AI) 
+  * FL (Federated Learning)
+  * ViT (Vision Transformer)
 
+## 👯 Contributed project ...
+
+  * assiCT : Brain hemorrhage detection & explain using XAI (Lime Explainer)
+  * LolPAGO : E-sports Realtime Coaching Service (@League of Legends)
+  * D2ar Diary : It's a service that sympathizes with the diary using GPT
+  * Tool's Riot : Lane Meta Analytics Using EDA (@League of Legends)
+  * FishScope : Weight Estimation Using Stereo Bbox Matching 
 <!--
 **hanueluni1106/hanueluni1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
