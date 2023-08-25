@@ -17,6 +17,7 @@
   * XAI (eXplainable AI) 
   * FL (Federated Learning)
   * ViT (Vision Transformer)
+  * Multi-Modal 
 
 ## 👯 Contributed project ...
 
