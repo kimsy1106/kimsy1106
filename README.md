@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Federated Learning](https://img.shields.io/badge/Federated_Learning-FF69B4?style=flat-square)
 
 
 <!--
