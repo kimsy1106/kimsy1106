@@ -19,6 +19,7 @@
   * FL (Federated Learning)
   * ViT (Vision Transformer)
   * Multi-Modal
+  * Tech Stack for Big Data : Hadoop, NoSQL, Spark
 
 ## 👯 Contributed project ...
 
