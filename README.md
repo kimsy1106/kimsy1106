@@ -23,7 +23,7 @@
 
 ## 👯 Contributed project ...
 
-  * assiCT : Brain hemorrhage detection & explain using XAI (Lime Explainer)
+  * assiCT : Brain hemorrhage detection & explaining using XAI (Lime Explainer)
   * LolPAGO : E-sports Realtime Coaching Service (@League of Legends)
   * D2ar Diary : It's a service that sympathizes with the diary using GPT
   * Tool's Riot : Lane Meta Analytics Using EDA (@League of Legends)
