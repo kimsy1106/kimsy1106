@@ -22,7 +22,7 @@
   * Tech Stack for Big Data : Hadoop, NoSQL, Spark
   * Offline Reinforcement Learning
 
-## Papers
+## 📑 Papers
 
   * Win Prediction in MOBA Games Using Time-Series Location Data: Case Study in League of Legends (LoL)
 [google scholar link](https://journal-home.s3.ap-northeast-2.amazonaws.com/site/2023w/abs/0632-RRHIQ.pdf)
