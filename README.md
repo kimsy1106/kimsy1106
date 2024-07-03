@@ -36,7 +36,9 @@
   * Tool's Riot : Lane Meta Analytics Using EDA (@League of Legends)
   * FishScope : Weight Estimation Using Stereo Bbox Matching
   * League Replay Extractor : CV based automated Game Replay Data Extractor 
-    
+
+## My RESUME :  [Resume(Seongyoon Kim).pdf](https://github.com/user-attachments/files/16088538/Resume.Seongyoon.Kim.pdf)
+
 <!--
 **hanueluni1106/hanueluni1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
