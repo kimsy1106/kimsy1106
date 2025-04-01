@@ -14,9 +14,10 @@
 
 ## 🌱 I’m currently learning ...
 
-  * HCI (Human-Computer-Interaction; not only Computer, but also AI)
-  * FL (Federated Learning)
+  * Time-Series Analysis for Video Games
   * Foundation Model for Downstream Tasks
+  * FL (Federated Learning)
+  * HCI (Human-Computer-Interaction; not only Computer, but also AI)
   * Offline Reinforcement Learning
 
 ## 📑 Papers
@@ -28,14 +29,13 @@
 
 ## 👯 Contributed project ...
 
+  * League Replay Extractor : CV based automated Game Replay Data Extractor 
   * assiCT : Brain hemorrhage detection & explaining using XAI (Lime Explainer)
   * LolPAGO : E-sports Realtime Coaching Service (@League of Legends)
   * D2ar Diary : It's a service that sympathizes with the diary using GPT
   * Tool's Riot : Lane Meta Analytics Using EDA (@League of Legends)
   * FishScope : Weight Estimation Using Stereo Bbox Matching
-  * League Replay Extractor : CV based automated Game Replay Data Extractor 
-
-## My RESUME :  [Resume(Seongyoon Kim).pdf](https://github.com/user-attachments/files/16088538/Resume.Seongyoon.Kim.pdf)
+  
 
 <!--
 **hanueluni1106/hanueluni1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
