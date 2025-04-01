@@ -14,12 +14,9 @@
 
 ## 🌱 I’m currently learning ...
 
-  * XAI (eXplainable AI)
   * HCI (Human-Computer-Interaction; not only Computer, but also AI)
   * FL (Federated Learning)
-  * ViT (Vision Transformer)
-  * Multi-Modal
-  * Tech Stack for Big Data : Hadoop, NoSQL, Spark
+  * Foundation Model for Downstream Tasks
   * Offline Reinforcement Learning
 
 ## 📑 Papers
@@ -27,6 +24,7 @@
   * Win Prediction in MOBA Games Using Time-Series Location Data: Case Study in League of Legends (LoL)
 [google scholar link](https://journal-home.s3.ap-northeast-2.amazonaws.com/site/2023w/abs/0632-RRHIQ.pdf)
   * ConvLSTM-based Particulate Matter Concentration Prediction Using Meteorological Data Imagification Reflecting Location of Weather Station
+[DBpia paper link](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11705597)
 
 ## 👯 Contributed project ...
 
